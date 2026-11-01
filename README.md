@@ -57,7 +57,7 @@ Prompt in the script is in German. Here's an english template, which you can mod
 - Adjust the timing (default every 6 hours).
 
 ```bash
-0 */6 * * * /path/.venv/bin/python3 /path/error_watcher.py >> /path/apps.kuracodez.space/scripts/checker.log 2>&1
+0 */6 * * * /path/.venv/bin/python3 /path/error_watcher.py >> /path/error_watcher.log 2>&1
 ``` 
 
 **Test script running:**
