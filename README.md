@@ -1,7 +1,6 @@
 # Docker Error Watcher
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 This is a AI-assisted Python Script to use on a server to check the health of your Docker containers. 
 
@@ -16,7 +15,7 @@ It is powered by Gemini.
 
 ## Configuration
 
-Create a `secrets.env' file and fill out the following information:
+Create a `secrets.env` file and fill out the following information:
 
 ```python
 GEMINI_API_KEY = "YOUR_GOOGLE_AI_STUDIO_API_KEY"
